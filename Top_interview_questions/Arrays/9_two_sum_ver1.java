@@ -4,6 +4,8 @@ class Solution {
         // solution : using two pointer array
         // time compacity : O(N^2) space compacity : O(1)
         // 투 포인터로 해결 
+        // Runtime: 130 ms
+        // Memory Usage: 42.6 MB
 
         int index1 =0;
         int index2=1;
