@@ -6,7 +6,7 @@
 
 
 ## leetcode-  top interview questions solutions.  
-annotation is written in both English & Korean.   
+Annotation is written in both English & Korean.   
 If you have any idea or questions about any solution, feel free to contact.   
 
 ---
